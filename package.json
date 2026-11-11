@@ -1,0 +1,19 @@
+{
+  "name": "productos-nuevos-billow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "csv-parser": "^3.2.1",
+    "dotenv": "^18.0.5",
+    "googleapis": "^183.0.0",
+    "node-firebird": "^2.18.2"
+  }
+}
